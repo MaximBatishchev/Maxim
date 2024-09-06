@@ -1,2 +1,2 @@
 input name
-print('Добро пожаловать' name)
+print('Добро пожаловать, друг' name)
